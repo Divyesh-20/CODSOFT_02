@@ -11,8 +11,8 @@ Division by Zero Handling: Safely handles division by zero with an error message
 Repeat Calculations: After each calculation, you can choose to perform another calculation or exit.
 
 ## Prerequisites To run this program,
-you need to have [Python] installed on your machine.
-You can download it  (python.org)
+you need to have Python installed on your machine.
+You can download it  [Python](python.org)
 
 ### Example Usage
 Simple Calculator
